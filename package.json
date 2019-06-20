@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/vnkvp/chat-app/issues"
   },
-  "homepage": "https://github.com/vnkvp/chat-app#readme"
+  "homepage": "https://github.com/vnkvp/chat-app#readme",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  }
 }
