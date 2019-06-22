@@ -2,6 +2,6 @@ body {
     margin: 0;
     padding: 0;
 }
-h1 {
-color: #a9c8f7;
+#messageArea {
+    display: none;
 }
